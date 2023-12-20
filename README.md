@@ -29,10 +29,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="40" alt="c++ logo" /><img width="12" />
 <!-- SQL Logo -->
 <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" alt="sql logo" /><img width="12" />
-<!-- MIPS Assembly Logo -->
-<img src="https://creatorsim.github.io/creator/images/mips_logo.png" height="40" alt="mips assembly logo" /><img width="12" />
 <!-- HTMX Logo -->
-<img src="https://raw.githubusercontent.com/bigskysoftware/htmx/master/www/static/img/htmx_logo.1.png" height="40" alt="htmx logo" /><img width="12" />
+<img src="https://styles.redditmedia.com/t5_2u59z4/styles/communityIcon_3wi5tbhd61181.png" height="40" alt="htmx logo" /><img width="12" />
 <!-- Firebase Logo -->
 <img src="https://www.svgrepo.com/show/373595/firebase.svg" height="40" alt="firebase logo" /><img width="12" />
 <!-- MongoDB Logo -->
@@ -40,7 +38,7 @@
 <!-- Django Logo -->
 <img src="https://www.svgrepo.com/show/373554/django.svg" height="40" alt="django logo" /><img width="12" />
 <!-- Android Studio Logo -->
-<img src="https://www.svgrepo.com/show/424904/logo-google-android-studio-2.svg" height="40" alt="android studio logo" /><img width="12" />
+<img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" height="40" alt="android studio logo" /><img width="12" />
 <!-- Pandas Logo -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/449px-Pandas_mark.svg.png?20200210000431" height="40" alt="pandas logo" /><img width="12" />
 <!-- GeoPandas Logo -->
@@ -49,8 +47,6 @@
 <img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" height="40" alt="junit logo" /><img width="12" />
 <!-- OpenCV Logo -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="40" alt="opencv logo" /><img width="12" />
-<!-- Openpyxl Logo -->
-<img src="https://static.javatpoint.com/tutorial/openpyxl/images/python-openpyxl-tutorial.png" height="40" alt="openpyxl logo" /><img width="12" />
 <!-- Git Logo -->
 <img src="https://www.svgrepo.com/show/452210/git.svg" height="40" alt="git logo" /><img width="12" />
 <!-- VS Code Logo -->
@@ -61,6 +57,8 @@
 <img src="https://www.svgrepo.com/show/354237/pycharm.svg" height="40" alt="pycharm logo" /><img width="12" />
 <!-- IntelliJ Logo -->
 <img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" height="40" alt="intellij logo" /><img width="12" />
+  <!-- MIPS Assembly Logo -->
+<img src="https://creatorsim.github.io/creator/images/mips_logo.png" height="40" alt="mips assembly logo" /><img width="12" />
 </div>
 
 ###

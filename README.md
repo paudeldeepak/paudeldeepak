@@ -23,6 +23,8 @@
 <img src="https://www.svgrepo.com/show/452091/python.svg" height="40" alt="python logo" /><img width="12" />
 <!-- Java Logo -->
 <img src="https://www.svgrepo.com/show/452234/java.svg" height="40" alt="java logo" /><img width="12" />
+<!-- javascript Logo -->
+<img src="https://i0.wp.com/blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png?fit=587%2C330&ssl=1" height="40" alt="Javascript Logo" /><img width="12" />
 <!-- C Logo -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" height="40" alt="c logo" /><img width="12" />
   <!-- C++ Logo -->
@@ -31,6 +33,8 @@
 <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" alt="sql logo" /><img width="12" />
 <!-- HTMX Logo -->
 <img src="https://styles.redditmedia.com/t5_2u59z4/styles/communityIcon_3wi5tbhd61181.png" height="40" alt="htmx logo" /><img width="12" />
+<!-- Vue Logo -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" height="40" alt="Vue logo" style="margin-right: 12px;">
 <!-- Firebase Logo -->
 <img src="https://www.svgrepo.com/show/373595/firebase.svg" height="40" alt="firebase logo" /><img width="12" />
 <!-- MongoDB Logo -->

@@ -47,6 +47,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/449px-Pandas_mark.svg.png?20200210000431" height="40" alt="pandas logo" /><img width="12" />
 <!-- GeoPandas Logo -->
 <img src="https://geopandas.org/en/latest/_images/geopandas_icon_green.png" height="40" alt="geopandas logo" /><img width="12" />
+<!-- R Logo -->
+<img src="https://www.r-project.org/logo/Rlogo.png" height="40" alt="R logo" style="margin-right: 12px;">
 <!-- JUnit Logo -->
 <img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" height="40" alt="junit logo" /><img width="12" />
 <!-- OpenCV Logo -->

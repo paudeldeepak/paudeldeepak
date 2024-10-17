@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📫 Education:  Computing Science Specialization Student @uAlberta<br>🎯 Goals: Engage in Open Source Projects, Network and Build Professional Relationships</p>
+<p align="left">📫 Education:  Computing Science Specialization @uAlberta<br>🎯 Goals: Engage in Open Source Projects, Network and Build Professional Relationships</p>
 
 ###
 

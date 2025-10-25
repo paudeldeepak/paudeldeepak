@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">📫 Education:  Computing Science Specialization @uAlberta<br>🎯 Goals: Engage in Open Source Projects, Network and Build Professional Relationships</p>
+<p align="left">
+📫 Current Education: Master of Management Analytics Student @uAlberta <br> 
+🎓 Previous Education: B.Sc. Computing Science Specialization @uAlberta<br>
+🎯 Goals: Engage in Open Source Projects, Network, and Build Professional Relationships
+</p>
 
 ###
 

@@ -23,52 +23,52 @@
 ###
 
 <div align="left">
-  <!-- Python Logo -->
-<img src="https://www.svgrepo.com/show/452091/python.svg" height="40" alt="python logo" /><img width="12" />
-<!-- Java Logo -->
-<img src="https://www.svgrepo.com/show/452234/java.svg" height="40" alt="java logo" /><img width="12" />
-<!-- javascript Logo -->
-<img src="https://i0.wp.com/blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png?fit=587%2C330&ssl=1" height="40" alt="Javascript Logo" /><img width="12" />
-<!-- C Logo -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" height="40" alt="c logo" /><img width="12" />
-  <!-- C++ Logo -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="40" alt="c++ logo" /><img width="12" />
-<!-- SQL Logo -->
-<img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" alt="sql logo" /><img width="12" />
-<!-- HTMX Logo -->
-<img src="https://styles.redditmedia.com/t5_2u59z4/styles/communityIcon_3wi5tbhd61181.png" height="40" alt="htmx logo" /><img width="12" />
-<!-- Vue Logo -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" height="40" alt="Vue logo" style="margin-right: 12px;">
-<!-- Firebase Logo -->
-<img src="https://www.svgrepo.com/show/373595/firebase.svg" height="40" alt="firebase logo" /><img width="12" />
-<!-- MongoDB Logo -->
-<img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="40" alt="mongodb logo" /><img width="12" />
-<!-- Django Logo -->
-<img src="https://www.svgrepo.com/show/373554/django.svg" height="40" alt="django logo" /><img width="12" />
-<!-- Android Studio Logo -->
-<img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" height="40" alt="android studio logo" /><img width="12" />
-<!-- Pandas Logo -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/449px-Pandas_mark.svg.png?20200210000431" height="40" alt="pandas logo" /><img width="12" />
-<!-- GeoPandas Logo -->
-<img src="https://geopandas.org/en/latest/_images/geopandas_icon_green.png" height="40" alt="geopandas logo" /><img width="12" />
-<!-- R Logo -->
-<img src="https://www.r-project.org/logo/Rlogo.png" height="40" alt="R logo" style="margin-right: 12px;">
-<!-- JUnit Logo -->
-<img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" height="40" alt="junit logo" /><img width="12" />
-<!-- OpenCV Logo -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="40" alt="opencv logo" /><img width="12" />
-<!-- Git Logo -->
-<img src="https://www.svgrepo.com/show/452210/git.svg" height="40" alt="git logo" /><img width="12" />
-<!-- VS Code Logo -->
-<img src="https://www.svgrepo.com/show/452129/vs-code.svg" height="40" alt="vs code logo" /><img width="12" />
-<!-- Visual Studio Logo -->
-<img src="https://www.svgrepo.com/show/354520/visual-studio.svg" height="40" alt="visual studio logo" /><img width="12" />
-<!-- PyCharm Logo -->
-<img src="https://www.svgrepo.com/show/354237/pycharm.svg" height="40" alt="pycharm logo" /><img width="12" />
-<!-- IntelliJ Logo -->
-<img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" height="40" alt="intellij logo" /><img width="12" />
-  <!-- MIPS Assembly Logo -->
-<img src="https://creatorsim.github.io/creator/images/mips_logo.png" height="40" alt="mips assembly logo" /><img width="12" />
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo" title="Python" /><img width="12" />
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java logo" title="Java" /><img width="12" />
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" /><img width="12" />
+  <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="c logo" title="C" /><img width="12" />
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" title="C++" /><img width="12" />
+  <!-- SQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="sql logo" title="SQL" /><img width="12" />
+  <!-- HTMX -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original.svg" height="40" alt="htmx logo" title="HTMX" /><img width="12" />
+  <!-- Vue -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="40" alt="vue logo" title="Vue.js" /><img width="12" />
+  <!-- Firebase -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="40" alt="firebase logo" title="Firebase" /><img width="12" />
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" title="MongoDB" /><img width="12" />
+  <!-- Django -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="40" alt="django logo" title="Django" /><img width="12" />
+  <!-- Android Studio -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="40" alt="android studio logo" title="Android Studio" /><img width="12" />
+  <!-- Pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" title="Pandas" /><img width="12" />
+  <!-- GeoPandas -->
+  <img src="https://raw.githubusercontent.com/geopandas/geopandas/main/doc/source/_static/logo/geopandas_icon_green.svg" height="40" alt="geopandas logo" title="GeoPandas" /><img width="12" />
+  <!-- R -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="40" alt="r logo" title="R" /><img width="12" />
+  <!-- JUnit -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" height="40" alt="junit logo" title="JUnit" /><img width="12" />
+  <!-- OpenCV -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" title="OpenCV" /><img width="12" />
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git logo" title="Git" /><img width="12" />
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="vs code logo" title="VS Code" /><img width="12" />
+  <!-- Visual Studio -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="40" alt="visual studio logo" title="Visual Studio" /><img width="12" />
+  <!-- PyCharm -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" title="PyCharm" /><img width="12" />
+  <!-- IntelliJ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" title="IntelliJ IDEA" /><img width="12" />
+  <!-- MIPS Assembly (no official logo, so a badge is used) -->
+  <img src="https://img.shields.io/badge/MIPS-Assembly-6E4C13?style=for-the-badge" height="40" alt="mips assembly" title="MIPS Assembly" />
 </div>
 
 ###
@@ -79,7 +79,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/paudeldeepak/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 </div>
 

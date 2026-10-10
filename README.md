@@ -10,7 +10,7 @@
 🎯 Goals: Engage in Open Source Projects, Network, and Build Professional Relationships
 </p>
 
-<h2 align="left">Tech stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 | **Languages** | **Data & ML** | **Databases & cloud** | **Visualization & BI** | **Web & tools** |
 | :---: | :---: | :---: | :---: | :---: |
